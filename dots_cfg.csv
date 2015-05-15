@@ -1,0 +1,7 @@
+element,value
+Zip Code File,c:/Data/src/R/US_zipcodes_wgs84.csv
+Customer File,c:/Data/src/R/customer2_syr.csv
+Shapefile,c:/Data/src/R/shapefiles/state/tl_2014_us_state.shp
+Output Image,dots.png
+Title,Output Image of EMC Inventory Locations
+Sub,May 2015
